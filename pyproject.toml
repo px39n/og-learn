@@ -7,7 +7,7 @@ name = "og-learn"
 version = "0.1.0"
 description = "Overfit-to-Generalization Framework for Equitable Spatiotemporal Modeling"
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
 requires-python = ">=3.8"
 authors = [
     {name = "Zhehao Liang", email = "zliang7@nd.edu"},
@@ -26,7 +26,6 @@ keywords = [
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Science/Research",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
@@ -59,10 +58,10 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/og-learn"
-Documentation = "https://og-learn.readthedocs.io"
-Repository = "https://github.com/yourusername/og-learn"
-Issues = "https://github.com/yourusername/og-learn/issues"
+Homepage = "https://github.com/px39n/og-learn"
+Documentation = "https://px39n.github.io/og-learn/"
+Repository = "https://github.com/px39n/og-learn"
+Issues = "https://github.com/px39n/og-learn/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
