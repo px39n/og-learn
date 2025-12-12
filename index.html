@@ -1412,10 +1412,7 @@
     A[Data] --&gt; B[Stage 1: HV Model]
     B --&gt; C[Pseudo-labels]
     C --&gt; D[Stage 2: LV Model]
-    D --&gt; E[Final Prediction]
-
-    style B fill:#e1bee7
-    style D fill:#bbdefb</code></pre>
+    D --&gt; E[Final Prediction]</code></pre>
 <ol>
 <li><strong>Stage 1 - High-Variance (HV) Model</strong>: Use a flexible model (e.g., LightGBM) to generate pseudo-labels with density-aware sampling and oscillation noise</li>
 <li><strong>Stage 2 - Low-Variance (LV) Model</strong>: Train a regularized model (e.g., MLP, ResNet) to learn from pseudo-labels, capturing generalizable patterns</li>
