@@ -1,63 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://your-username.github.io/og-learn/</loc>
+         <loc>https://px39n.github.io/og-learn/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/about/contributing/</loc>
+         <loc>https://px39n.github.io/og-learn/about/contributing/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/about/license/</loc>
+         <loc>https://px39n.github.io/og-learn/about/license/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/api/feature/</loc>
+         <loc>https://px39n.github.io/og-learn/api/feature/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/api/ogmodel/</loc>
+         <loc>https://px39n.github.io/og-learn/api/ogmodel/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/api/presets/</loc>
+         <loc>https://px39n.github.io/og-learn/api/presets/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/api/utils/</loc>
+         <loc>https://px39n.github.io/og-learn/api/utils/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/examples/tutorial/</loc>
+         <loc>https://px39n.github.io/og-learn/examples/OG_Tutorial/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/getting-started/installation/</loc>
+         <loc>https://px39n.github.io/og-learn/examples/tutorial/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/getting-started/quickstart/</loc>
+         <loc>https://px39n.github.io/og-learn/getting-started/installation/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/guide/custom-models/</loc>
+         <loc>https://px39n.github.io/og-learn/getting-started/quickstart/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/guide/feature-engineering/</loc>
+         <loc>https://px39n.github.io/og-learn/guide/custom-models/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/guide/og-framework/</loc>
+         <loc>https://px39n.github.io/og-learn/guide/feature-engineering/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/guide/presets/</loc>
+         <loc>https://px39n.github.io/og-learn/guide/og-framework/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
     <url>
-         <loc>https://your-username.github.io/og-learn/guide/tensorboard/</loc>
+         <loc>https://px39n.github.io/og-learn/guide/presets/</loc>
+         <lastmod>2025-12-12</lastmod>
+    </url>
+    <url>
+         <loc>https://px39n.github.io/og-learn/guide/tensorboard/</loc>
          <lastmod>2025-12-12</lastmod>
     </url>
 </urlset>
