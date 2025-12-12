@@ -92,8 +92,8 @@ HV_PRESETS = {
         'class': 'CatBoostRegressor',
         'module': 'catboost',
         'params': {
-            'iterations': 300,
-            'depth': 8,
+            'iterations': 700,
+            'depth': 6,
             'learning_rate': 0.1,
             'l2_leaf_reg': 2,
             'border_count': 64,

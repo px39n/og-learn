@@ -74,6 +74,9 @@ ENV/
 *~
 .DS_Store
 
+# MkDocs
+site/
+
 # Testing
 .pytest_cache/
 .coverage
