@@ -1,10 +1,10 @@
 site_name: OG-Learn
 site_description: Overfit-to-Generalization Framework for Spatiotemporal Machine Learning
-site_author: Your Name
-site_url: https://your-username.github.io/og-learn/
+site_author: Zhehao Liang
+site_url: https://px39n.github.io/og-learn/
 
 repo_name: og-learn
-repo_url: https://github.com/your-username/og-learn
+repo_url: https://github.com/px39n/og-learn
 
 theme:
   name: material
@@ -41,6 +41,9 @@ theme:
 
 plugins:
   - search
+  - mkdocs-jupyter:
+      include_source: true
+      execute: false  # 不重新执行，使用已有输出
   - mkdocstrings:
       handlers:
         python:
@@ -90,7 +93,7 @@ nav:
     - Feature Engineering: api/feature.md
     - Utilities: api/utils.md
   - Examples:
-    - Tutorial: examples/tutorial.md
+    - Tutorial (Notebook): examples/OG_Tutorial.ipynb
   - About:
     - Contributing: about/contributing.md
     - License: about/license.md
