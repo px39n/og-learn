@@ -2,6 +2,7 @@
 
 **Overfit-to-Generalization Framework for Equitable Spatiotemporal Modeling**
 
+[![DOI](https://zenodo.org/badge/1114818039.svg)](https://doi.org/10.5281/zenodo.17915569)
 [![PyPI version](https://badge.fury.io/py/og-learn.svg)](https://badge.fury.io/py/og-learn)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -72,7 +73,13 @@ predictions = og.predict(X_test)
 
 ## Documentation
 
-For full documentation, see [documentation link].
+📖 **Full documentation**: [https://px39n.github.io/og-learn/](https://px39n.github.io/og-learn/)
+
+## Data
+
+Example datasets are available on Zenodo: [https://doi.org/10.5281/zenodo.17915696](https://doi.org/10.5281/zenodo.17915696)
+
+Direct download: [og-learn.zip](https://zenodo.org/records/17915696/files/og-learn.zip?download=1)
 
 ## Citation
 

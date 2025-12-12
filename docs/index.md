@@ -29,9 +29,6 @@ flowchart LR
     B --> C[Pseudo-labels]
     C --> D[Stage 2: LV Model]
     D --> E[Final Prediction]
-    
-    style B fill:#e1bee7
-    style D fill:#bbdefb
 ```
 
 1. **Stage 1 - High-Variance (HV) Model**: Use a flexible model (e.g., LightGBM) to generate pseudo-labels with density-aware sampling and oscillation noise
