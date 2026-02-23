@@ -87,7 +87,7 @@ If you use this package in your research, please cite:
 
 ```bibtex
 @article{liang2025og,
-  title={Countering Local Overfitting for Equitable Spatiotemporal Modeling},
+  title={Local Overfitting Drives Spatially Uneven Performance in Observation-based Atmospheric Models},
   author={Liang, Zhehao and Castruccio, Stefano and Crippa, Paola},
   journal={},
   year={2025}
