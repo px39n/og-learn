@@ -11,7 +11,7 @@ Key Components:
 - simple_feature_engineering: Feature engineering pipeline
 """
 
-__version__ = "0.1.0"
+__version__ = "1.0.0"
 __author__ = "Zhehao Liang"
 __email__ = "zliang7@nd.edu"
 
